@@ -3,7 +3,7 @@
 <br>
 
 ```shell
-$ echo "Perkodingan coyyyy" > README.md
+$ echo "Cuman orang suka koding" > README.md
 ```
     
   
