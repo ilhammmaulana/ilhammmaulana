@@ -3,7 +3,7 @@
 <br>
 
 ```shell
-$ echo "Terbentur terbentur terbentur terbentuk" > README.md
+$ echo "Absen" > README.md
 ```
     
   
